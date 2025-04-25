@@ -1,3 +1,4 @@
+![Screenshot 2025-04-25 141337](https://github.com/user-attachments/assets/f942fcc8-8cc6-4ce3-af19-f407606e1e35)
 # Personal Portfolio Website
 
 This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
